@@ -7,26 +7,19 @@ SuSDNS is a DNS-based proof-of-concept application designed to detect and block 
 ## Made With 🛠️
 
 <p align="center">
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="poc/icons/docker.png" alt="Docker" width="50" height="50" /><br> 
-    <strong>Docker</strong>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="poc/icons/coredns.png" alt="CoreDNS" width="50" height="50" /><br> 
-    <strong>CoreDNS</strong>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="poc/icons/redis.png" alt="Redis" width="50" height="50" /><br> 
-    <strong>Redis</strong>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="poc/icons/flask.png" alt="Flask" width="50" height="50" /><br> 
-    <strong>Flask</strong>
-  </span>
-  <span style="display: inline-block; text-align: center; margin: 0 20px;">
-    <img src="poc/icons/nginx.png" alt="NGINX" width="50" height="50" /><br> 
-    <strong>NGINX</strong>
-  </span>
+  <img src="poc/icons/docker.png" alt="Docker" width="50" height="50" /> 
+  <img src="poc/icons/coredns.png" alt="CoreDNS" width="50" height="50" /> 
+  <img src="poc/icons/redis.png" alt="Redis" width="50" height="50" />
+</p>
+
+<p align="center">
+  <img src="poc/icons/flask.png" alt="Flask" width="50" height="50" /> 
+  <img src="poc/icons/nginx.png" alt="NGINX" width="50" height="50" />
+</p>
+
+<p align="center">
+  <strong>Docker</strong> &nbsp; <strong>CoreDNS</strong> &nbsp; <strong>Redis</strong><br>
+  <strong>Flask</strong> &nbsp; <strong>NGINX</strong>
 </p>
 
 
