@@ -16,8 +16,7 @@ SuSDNS is a DNS-based proof-of-concept application designed to detect and block 
 - [Overview](#overview)
 - [Architecture Diagram](#architecture-diagram)
 - [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
+- [Demonstration](#demonstration)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -45,15 +44,6 @@ _Description_: The diagram illustrates the flow of DNS queries from clients to t
 - **Dockerized Deployment**: Easy setup and scaling with Docker.
 
 ---
-
-## Setup
-
-### Prerequisites
-
-- Docker and Docker Compose installed
-- CoreDNS installed
-- Flask and Python dependencies
-- Redis database
 
 ## Demonstration
 
