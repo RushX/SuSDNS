@@ -6,11 +6,9 @@ SuSDNS is a DNS-based proof-of-concept application designed to detect and block 
 ---
 ## Made With 🛠️
 
-## Made With 🛠️
-
 <p align="center">
-  <img src="poc/icons/docker.png" alt="Docker" width="50" height="50" /> 
-  <img src="poc/icons/coredns.png" alt="CoreDNS" width="50" height="50" /> 
+  <img src="poc/icons/docker.png" alt="Docker" width="50" height="50" /> &nbsp;&nbsp;&nbsp;
+  <img src="poc/icons/coredns.png" alt="CoreDNS" width="50" height="50" /> &nbsp;&nbsp;&nbsp;
   <img src="poc/icons/redis.png" alt="Redis" width="50" height="50" />
 </p>
 <p align="center">
@@ -18,13 +16,12 @@ SuSDNS is a DNS-based proof-of-concept application designed to detect and block 
 </p>
 
 <p align="center">
-  <img src="poc/icons/flask.png" alt="Flask" width="50" height="50" /> 
+  <img src="poc/icons/flask.png" alt="Flask" width="50" height="50" /> &nbsp;&nbsp;&nbsp;
   <img src="poc/icons/nginx.png" alt="NGINX" width="50" height="50" />
 </p>
 <p align="center">
   <strong>Flask</strong> &nbsp; <strong>NGINX</strong>
 </p>
-
 
 
 ---
