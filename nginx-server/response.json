@@ -1,0 +1,7 @@
+ 
+{
+    "status": "blocked",
+    "message": "The requested domain has been identified as malicious (DGA).",
+    "remediation": "If you believe this is a mistake, please contact your network administrator."
+}
+

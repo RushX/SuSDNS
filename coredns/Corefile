@@ -1,0 +1,11 @@
+
+. {
+    errors
+    log
+    dgadetect {
+                url http://172.26.80.1:5000/isDGA
+                upstream 8.8.8.8:53
+            }
+    
+    cache
+}

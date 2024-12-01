@@ -1,0 +1,50 @@
+ 
+#   * SuSDNS - Proprietary Software
+#   * Copyright (c) 2024 Rushikesh Muley. All rights reserved.
+#   *
+#   * This file is part of SuSDNS. Unauthorized copying, modification, or distribution of this file,
+#   * via any medium, is strictly prohibited without prior written permission from the author.
+#   *
+#   * For inquiries, contact: Rushikesh Muley (rushikeshmuley@outlook.com)
+  
+version: '3'
+
+services:
+  flask-api:
+    build:
+      context: ./flask-api
+    ports:
+      - "5000:5000"
+    networks:
+      - app-network
+
+  coredns:
+    build:
+      context: ./coredns
+    ports:
+      - "53:53/udp"
+      - "53:53/tcp"
+    networks:
+      - app-network
+    depends_on:
+      - flask-api
+
+  redis:
+    build:
+      context: ./redis
+    ports:
+      - "6379:6379"
+    networks:
+      - app-network
+
+  warning-server:
+    build:
+      context: ./nginx-server
+    ports:
+      - "80:80/tcp"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
