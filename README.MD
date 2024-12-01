@@ -1,18 +1,12 @@
 
-# ![SuSDNS Logo](poc/icons/logo.png) SuSDNS
+# ![SuSDNS Logo](poc/icons/logo.png)
 
 SuSDNS is a DNS-based proof-of-concept application designed to detect and block malicious domains (e.g., DGA domains). It leverages a machine learning model hosted on a Flask server to classify domains in real-time and responds accordingly by either blocking or forwarding the DNS request.
 
 ---
 ## Made With 🛠️
 
-| Technology |
-|------------|
-| **Docker** ![Docker](poc/icons/docker.png) |   
-| **CoreDNS** ![CoreDNS](poc/icons/coredns.png) |  
-| **Redis** ![Redis](poc/icons/redis.png) |    
-| **Flask** ![Flask](poc/icons/flask.png)   |
-| **NGINX** ![NGINX](poc/icons/nginx.png)   |
+| **Docker** ![Docker](poc/icons/docker.png) | **CoreDNS** ![CoreDNS](poc/icons/coredns.png) | **Redis** ![Redis](poc/icons/redis.png) | **Flask** ![Flask](poc/icons/flask.png)   | **NGINX** ![NGINX](poc/icons/nginx.png)   |
 ---
 ## Table of Contents
 
