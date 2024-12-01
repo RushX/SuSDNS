@@ -5,13 +5,36 @@ SuSDNS is a DNS-based proof-of-concept application designed to detect and block 
 
 ---
 ## Made With 🛠️
-![Docker](poc/icons/docker.png)  &nbsp;&nbsp;&nbsp;  ![CoreDNS](poc/icons/coredns.png)  &nbsp;&nbsp;&nbsp;  ![Redis](poc/icons/redis.png)
 
-**Docker**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **CoreDNS**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Redis**
+  
 
-![Flask](poc/icons/flask.png)  &nbsp;&nbsp;&nbsp;  ![NGINX](poc/icons/nginx.png)
+<p align="center">
+  ![Docker](poc/icons/docker.png)  
+  **Docker**  
+</p>
 
-**Flask** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **NGINX**
+<p align="center">
+  ![CoreDNS](poc/icons/coredns.png)  
+  **CoreDNS**  
+</p>
+
+<p align="center">
+  ![Redis](poc/icons/redis.png)  
+  **Redis**  
+</p>
+
+  
+
+<p align="center">
+  ![Flask](poc/icons/flask.png)  
+  **Flask**  
+</p>
+
+<p align="center">
+  ![NGINX](poc/icons/nginx.png)  
+  **NGINX**  
+</p>
+
 
 ---
 ## Table of Contents
