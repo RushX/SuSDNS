@@ -6,8 +6,6 @@ SuSDNS is a DNS-based proof-of-concept application designed to detect and block 
 ---
 ## Made With 🛠️
 
-## Made With 🛠️
-
 <p align="center">
   <img src="poc/icons/docker.png" width="20" />
   <br>
@@ -36,18 +34,6 @@ SuSDNS is a DNS-based proof-of-concept application designed to detect and block 
   <img src="poc/icons/nginx.png" width="20" />
   <br>
   **NGINX**
-</p>
-
-  
-
-<p align="center">
-  ![Flask](poc/icons/flask.png)  
-  **Flask**  
-</p>
-
-<p align="center">
-  ![NGINX](poc/icons/nginx.png)  
-  **NGINX**  
 </p>
 
 
